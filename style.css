@@ -1,0 +1,94 @@
+.body
+{
+  background-color: aqua
+   
+}
+/* .title
+{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px 2px blue
+} */
+.title
+{
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 47%
+}
+.info
+{
+    margin-left: 5%;
+}
+.Description
+{
+    text-align: center;
+    width: 700px;
+    font-size: 30px;
+    margin-left: 10%;
+    border-style: solid;
+    background-color: #ff99cc
+}
+.form
+{
+  text-align: center;
+   border-style: ridge;
+   width: 400px;
+   margin-left: 40%;
+
+   
+}
+.add
+{
+    margin-left: 30%;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+   margin-left: 70%;
+   margin-top: -28%;
+  }
+  
+  .ok {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 19px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  .note
+  {
+      margin-left: 35%;
+  }
+  .ult
+  {
+      width: 800px;
+      text-align: initial;
+      margin-left: 22%;
+      font-size: 20px;
+  }
+  h4
+  {
+      margin-left: 29%;
+  }
